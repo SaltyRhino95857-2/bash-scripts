@@ -1,2 +1,2 @@
 # bash-scripts
-Bash scripts that i created
+just some simple bash scripts.
