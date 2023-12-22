@@ -5,4 +5,4 @@ some of these scripts are untested, for example: the arch installer, RUN AT YOUR
 
 
 
-### note: I was just a novice shell scripter so I didn't know the mess of if and else
+note: I was just a novice shell scripter so I didn't know the mess of if and else
